@@ -1,0 +1,12 @@
+C:\Users\khushi\source\repos\BookAddress\BookAddress\bin\Debug\BookAddress.exe.config
+C:\Users\khushi\source\repos\BookAddress\BookAddress\bin\Debug\BookAddress.exe
+C:\Users\khushi\source\repos\BookAddress\BookAddress\bin\Debug\BookAddress.pdb
+C:\Users\khushi\source\repos\BookAddress\BookAddress\obj\Debug\BookAddress.csproj.AssemblyReference.cache
+C:\Users\khushi\source\repos\BookAddress\BookAddress\obj\Debug\BookAddress.Properties.Resources.resources
+C:\Users\khushi\source\repos\BookAddress\BookAddress\obj\Debug\BookAddress.csproj.GenerateResource.cache
+C:\Users\khushi\source\repos\BookAddress\BookAddress\obj\Debug\BookAddress.csproj.CoreCompileInputs.cache
+C:\Users\khushi\source\repos\BookAddress\BookAddress\obj\Debug\BookAddress.exe
+C:\Users\khushi\source\repos\BookAddress\BookAddress\obj\Debug\BookAddress.pdb
+C:\Users\khushi\source\repos\BookAddress\BookAddress\obj\Debug\BookAddress.exe.config
+C:\Users\khushi\source\repos\BookAddress\BookAddress\obj\Debug\BookAddress.FormAB.resources
+C:\Users\khushi\source\repos\BookAddress\BookAddress\obj\Debug\BookAddress.DisplayForm.resources
